@@ -1,0 +1,13 @@
+{
+  "name": "markdown-to-html",
+  "version": "1.0.0",
+  "description": "`Author: Zhuxb`",
+  "main": "",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node ./src/main.js"
+  },
+  "author": "Zhuxb",
+  "license": "ISC"
+}
